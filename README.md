@@ -34,9 +34,3 @@ I work with a diverse set of technologies to bring ideas to life:
 * **Tools:** Docker, Git
 
 ---
-
-### 📊 Profile Views
-
-Thanks for stopping by! You're visitor number:
-
-![A10ha](https://profile-counter.glitch.me/A10ha/count.svg)
