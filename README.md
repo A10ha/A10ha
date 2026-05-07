@@ -12,7 +12,7 @@ As a dedicated developer, I'm driven by continuous learning and a passion for bu
 
 Here's a snapshot of my activity and contributions on GitHub:
 
-![A10ha's GitHub stats](https://github-readme-stats.vercel.app/api?username=A10ha&show_icons=true&theme=radical&hide_border=true)
+![A10ha's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=A10ha&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
@@ -20,7 +20,7 @@ Here's a snapshot of my activity and contributions on GitHub:
 
 These are the programming languages I've been actively using in my projects:
 
-![A10ha's GitHub Code](https://github-readme-stats.vercel.app/api/top-langs/?username=A10ha&layout=compact&theme=radical&hide_border=true)
+![A10ha's GitHub Code](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=A10ha&layout=compact&theme=radical&hide_border=true)
 
 ---
 
